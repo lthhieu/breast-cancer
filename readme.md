@@ -19,11 +19,10 @@ You can get information about this dataset from [here](https://web.inf.ufpr.br/v
 ### Inception
 ![image](https://user-images.githubusercontent.com/100410064/236374400-63312d88-7d70-4144-99ba-f4d7f0dbbfc9.png)
 
-### Accuracy - Loss Chart
-![image](https://user-images.githubusercontent.com/100410064/236374861-c9604d15-c9af-4641-9c4c-d45044e64a14.png)
+### Accuracy - Val_accuracy Chart
+![image](https://user-images.githubusercontent.com/100410064/236596519-61bdf3b2-2f8e-4d89-8e81-bfa84a6a0dde.png)
 
+### Loss - Val_loss Chart
+![image](https://user-images.githubusercontent.com/100410064/236596323-065e41b3-cb00-49fb-bc7b-e4d8c923cd49.png)
 ### Training time
-![image](https://user-images.githubusercontent.com/100410064/236375297-ae716b99-4bbb-4343-a894-45bc7dda0acc.png)
-
-
-
+![image](https://user-images.githubusercontent.com/100410064/236596565-846a187c-e62c-4dc2-962e-fc3ebbce373e.png)
