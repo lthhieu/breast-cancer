@@ -20,7 +20,7 @@ You can get information about this dataset from [here](https://web.inf.ufpr.br/v
 ![image](https://user-images.githubusercontent.com/100410064/236374400-63312d88-7d70-4144-99ba-f4d7f0dbbfc9.png)
 
 ### Accuracy - Val_accuracy Chart
-![image](https://user-images.githubusercontent.com/100410064/236596519-61bdf3b2-2f8e-4d89-8e81-bfa84a6a0dde.png)
+![image](https://user-images.githubusercontent.com/100410064/236611809-a9a45740-6ad6-4889-821a-08826fbd5d54.png)
 
 ### Loss - Val_loss Chart
 ![image](https://user-images.githubusercontent.com/100410064/236596323-065e41b3-cb00-49fb-bc7b-e4d8c923cd49.png)
