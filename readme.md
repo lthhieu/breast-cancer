@@ -37,6 +37,10 @@ You can get information about this dataset from [here](https://web.inf.ufpr.br/v
 ## Dataset
 You can download dataset from [here](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset) 
 
+and [here](https://www.kaggle.com/datasets/lytranhoanghieu/breast-128-malign)
+
+The first link is the main dataset, the second link is the dataset I resized all the images to 128x128 and renamed the malignant to malignant, in addition, I also deleted the images with more than 1 mask.
+
 ## Result
 #### Unet
 ![image](https://github.com/lthhieu/breast-cancer/assets/100410064/5ebdbb0c-e0bf-4eba-a8fe-b6873fe7f17c)
@@ -44,12 +48,18 @@ You can download dataset from [here](https://www.kaggle.com/datasets/aryashah2k/
 #### Attention-Unet
 ![image](https://github.com/lthhieu/breast-cancer/assets/100410064/6a0f47fb-24d8-4dd6-8fbc-58538c8685be)
 
+#### Densenet121-Unet
+![image](https://github.com/lthhieu/node-base/assets/100410064/c9ca7ed6-fcfb-4fd9-bf6a-241515c239e2)
+
+
 #### Accuracy - Val_accuracy Chart
-![image](https://github.com/lthhieu/breast-cancer/assets/100410064/d6dffb9a-dc26-4acb-8273-c8e6e27fa46c)
+![image](https://github.com/lthhieu/node-base/assets/100410064/2ddcb098-16f2-4e46-b8a7-682edcc850c6)
 
 #### Loss - Val_loss Chart
-![image](https://github.com/lthhieu/breast-cancer/assets/100410064/a0fcf0c1-b35b-4293-9cde-06134eb7d315)
+![image](https://github.com/lthhieu/node-base/assets/100410064/27e78cbd-adf5-4f9b-8164-9b88e7c52671)
+
 
 #### Training time
-![image](https://github.com/lthhieu/breast-cancer/assets/100410064/23026545-ee6b-4a54-9eaf-50eb9d2ba23e)
+![image](https://github.com/lthhieu/node-base/assets/100410064/e5fe1f4d-3728-4401-8d11-4cd7a7ace666)
+
 
